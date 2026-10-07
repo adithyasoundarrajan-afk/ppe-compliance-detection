@@ -1,0 +1,17 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# AI Models and Weights
+models/*.pt
+runs/
+*.onnx
+
+# OS generated files
+.DS_Store
+Thumbs.db
